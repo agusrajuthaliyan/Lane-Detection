@@ -1,0 +1,6 @@
+path: /home/tinkerspace/Lane-Detection
+train: Data/idd20kII/leftImg8bit/train
+val: Data/idd20kII/leftImg8bit/val 
+
+names:
+  0: road
