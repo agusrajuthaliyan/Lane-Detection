@@ -1,11 +1,8 @@
 # Dataset — too large for git
 /Data
 
-# YOLO training runs — too large
+# YOLO training runs — checkpoints too large, but weights will go via LFS
 /runs
-
-# Model weights — too large for git (push separately or use Git LFS)
-*.pt
 
 # Temp files
 text.txt
