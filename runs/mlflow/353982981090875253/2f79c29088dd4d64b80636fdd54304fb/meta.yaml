@@ -1,0 +1,14 @@
+artifact_uri: /home/tinkerspace/Desktop/Lane-Detection/runs/mlflow/353982981090875253/2f79c29088dd4d64b80636fdd54304fb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '353982981090875253'
+lifecycle_stage: active
+run_id: 2f79c29088dd4d64b80636fdd54304fb
+run_name: v1_highres
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772783148676
+status: 1
+tags: []
+user_id: tinkerspace

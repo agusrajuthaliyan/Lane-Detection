@@ -2,7 +2,7 @@
 /Data
 
 # YOLO training runs — checkpoints too large, but weights will go via LFS
-/runs
+# /runs
 
 # Temp files
 text.txt
