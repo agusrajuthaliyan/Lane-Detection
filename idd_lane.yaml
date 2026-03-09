@@ -1,4 +1,4 @@
-path: /home/tinkerspace/Lane-Detection(dont-delete)
+path: /home/tinkerspace/Lane-Detection
 train: Data/idd20kII/leftImg8bit/train
 val: Data/idd20kII/leftImg8bit/val 
 
